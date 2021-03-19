@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/haarbibo/static/css/main.1e0a3182.chunk.css",
+    "main.js": "/haarbibo/static/js/main.82d0cc8c.chunk.js",
+    "main.js.map": "/haarbibo/static/js/main.82d0cc8c.chunk.js.map",
+    "runtime-main.js": "/haarbibo/static/js/runtime-main.67570fa8.js",
+    "runtime-main.js.map": "/haarbibo/static/js/runtime-main.67570fa8.js.map",
+    "static/css/2.325dfaf0.chunk.css": "/haarbibo/static/css/2.325dfaf0.chunk.css",
+    "static/js/2.5927e4c8.chunk.js": "/haarbibo/static/js/2.5927e4c8.chunk.js",
+    "static/js/2.5927e4c8.chunk.js.map": "/haarbibo/static/js/2.5927e4c8.chunk.js.map",
+    "static/js/3.ad7a55e8.chunk.js": "/haarbibo/static/js/3.ad7a55e8.chunk.js",
+    "static/js/3.ad7a55e8.chunk.js.map": "/haarbibo/static/js/3.ad7a55e8.chunk.js.map",
+    "index.html": "/haarbibo/index.html",
+    "static/css/2.325dfaf0.chunk.css.map": "/haarbibo/static/css/2.325dfaf0.chunk.css.map",
+    "static/css/main.1e0a3182.chunk.css.map": "/haarbibo/static/css/main.1e0a3182.chunk.css.map",
+    "static/js/2.5927e4c8.chunk.js.LICENSE.txt": "/haarbibo/static/js/2.5927e4c8.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/haarbibo/static/media/frau3.4f5dae2a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67570fa8.js",
+    "static/css/2.325dfaf0.chunk.css",
+    "static/js/2.5927e4c8.chunk.js",
+    "static/css/main.1e0a3182.chunk.css",
+    "static/js/main.82d0cc8c.chunk.js"
+  ]
+}

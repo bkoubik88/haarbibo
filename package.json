@@ -2,7 +2,7 @@
   "name": "haarbibo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "haarbibo",
+  "homepage": "https://main.d1njtaei7e1ql7.amplifyapp.com",
   "dependencies": {
     "@fullcalendar/core": "^5.4.0",
     "@fullcalendar/daygrid": "^5.4.0",

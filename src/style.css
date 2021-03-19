@@ -1,0 +1,57 @@
+body {
+  background: url(./bilder/frau3.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#logo {
+  height: 180px;
+  border-radius: 17%;
+}
+#logoTitel {
+  font-size: 1.3rem;
+}
+
+.MuiBottomNavigationAction-root {
+  color: white !important;
+}
+.MuiButton-containedPrimary {
+  color: #fff;
+  background-color: #d3af81 !important;
+}
+
+.MuiBottomNavigationAction-root.Mui-selected {
+  color: #d3af81 !important;
+}
+
+.MuiFormLabel-root.Mui-focused {
+  color: #d3af81 !important;
+}
+
+.MuiOutlinedInput-notchedOutline {
+  border-color: #947e61 !important;
+}
+
+@media only screen and (min-device-width: 414px) and (max-device-width: 736px) and (orientation: portrait) {
+  #logo {
+    height: 100px;
+  }
+}
+
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (orientation: portrait) {
+  #logo {
+    height: 100px;
+  }
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (orientation: portrait) {
+  #logo {
+    height: 100px;
+  }
+  #logoTitel {
+    font-size: 1rem;
+  }
+}

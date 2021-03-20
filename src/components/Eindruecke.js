@@ -40,8 +40,7 @@ const useStyles = makeStyles({
   },
 });
 
-let url =
-  "http://haarbibospring-env.eba-kxmryasd.eu-central-1.elasticbeanstalk.com/haarbibo";
+let url = "https://reach-for-it.reach-for-it.de/haarbibo";
 
 export default function Eindruecke() {
   const classes = useStyles();
